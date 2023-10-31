@@ -2,10 +2,10 @@
      "name": "Hello KYROS TEAM",
      "description": "Atlassian Connect app",
      "key": "com.example.myapp",
-     "baseUrl": "https://19ea-122-170-96-181.ngrok-free.app",
+     "baseUrl": "https://atlassian-test-chr17wao8-ankit-guptas-projects.vercel.app",
      "vendor": {
          "name": "Example, Inc.",
-         "url": "https://19ea-122-170-96-181.ngrok-free.app"
+         "url": "https://atlassian-test-chr17wao8-ankit-guptas-projects.vercel.app"
      },
      "authentication": {
          "type": "none"
