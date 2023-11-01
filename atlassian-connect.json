@@ -24,7 +24,7 @@
         ],
         "webPanels": [
             {
-                "url": "/example-issue-left-panel",
+                "url": "/helloworld.html",
                 "key": "example-issue-left-panel",
                 "location": "atl.jira.view.issue.left.context",
                 "name": {
@@ -32,7 +32,7 @@
                 }                            
             },
             {
-                "url": "/example-issue-right-panel" ,
+                "url": "/helloworld.html" ,
                 "key": "example-issue-right-panel",
                 "location": "atl.jira.view.issue.right.context",
                 "name": {
