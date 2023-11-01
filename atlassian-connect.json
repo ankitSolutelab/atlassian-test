@@ -1,7 +1,7 @@
   {
      "name": "Hello KYROS TEAM",
      "description": "Atlassian Connect app",
-     "key": "com.example.myapp",
+     "key": "com.kyros",
      "baseUrl": "https://atlassian-test.vercel.app",
      "vendor": {
          "name": "Example, Inc.",
