@@ -1,7 +1,7 @@
   {
      "name": "Hello KYROS TEAM",
      "description": "Atlassian Connect app",
-     "key": "com.kyros",
+     "key": "com.example.myapp",
      "baseUrl": "https://atlassian-test.vercel.app",
      "vendor": {
          "name": "Example, Inc.",
@@ -14,12 +14,13 @@
      "modules": {
         "generalPages": [
             {
-                "key": "hello-world",
+              "url": "/helloworld.html"  ,  
+              "key": "hello-world",
                 "location": "system.top.navigation.bar",
                 "name": {
                     "value": "KYROS TESTING"
                 },
-                "url": "/helloworld.html"            
+                          
             }
          ]
      }
