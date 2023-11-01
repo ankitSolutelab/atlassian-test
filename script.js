@@ -7,7 +7,8 @@ fetch('https://ankitg1.atlassian.net/rest/api/3/project/KYRT', {
   mode: 'no-cors',
   headers: {
     'Authorization': 'Basic YW5raXQuZ0Bzb2x1dGVsYWJzLmNvbTpBVEFUVDN4RmZHRjAxM0xlN21qalFUQ18tY1J5OWkwYVFCNnh0a196U1U3TTBxVjJzR3Y4WHNsUk1HMkFJX21BRTFUUXU1bDJfbUttOHpJWG5WQl9IMml4VmF6T0l0RDRSM3ZTYnFtRnVTb0RHSVl0VnhQVUJtcTB6aUs0TkNsUUR3cEVIX1FWV3gtaTBvMzJiOFVsNC1kTlJ5ZE1ka200d1JWLVA3WWlSSk15NURfd3NRQWRQN0E9OTQxMjRBRDQ=',
-    'Accept': 'application/json'
+    'Accept': 'application/json',
+    'Access-Control-Allow-Origin':'*'
   }
 })
   .then(response => {
