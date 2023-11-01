@@ -21,6 +21,24 @@
                     "value": "KYROS TESTING"
                 }
             }
+        ],
+        "webPanels": [
+            {
+                "url": "/example-issue-left-panel",
+                "key": "example-issue-left-panel",
+                "location": "atl.jira.view.issue.left.context",
+                "name": {
+                    "value": "KYROS LEFT TESTING"
+                }                            
+            },
+            {
+                "url": "/example-issue-right-panel" ,
+                "key": "example-issue-right-panel",
+                "location": "atl.jira.view.issue.right.context",
+                "name": {
+                    "value": "App panel location right side title"
+                }                           
+            }
         ]
     }
 }
